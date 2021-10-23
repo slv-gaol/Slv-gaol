@@ -1,7 +1,7 @@
 ### Oiii! Eu sou o Guilherme Leão 👋
 
 - .🌱 Atualmente, estou aprendendo Python
-- 📫 Como chegar até mim: leao.guilhermeoliveira@gmail.com
+- 📫 Como chegar até mim: 11 9 9849-7663
 
 [![Linkedin: slv-gaol](https://img.shields.io/badge/Guilherme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vlarysc/)](https://www.linkedin.com/in/guilherme-le%C3%A3o-772653186/) [![Whats](https://img.shields.io/badge/-Whatsapp-green?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/+5511998497663)
 
